@@ -1,2 +1,3 @@
 # Flutter-Course-Resources
-## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
+## Section 1: Display your 
+https://docs.flutter.dev/get-started/install
