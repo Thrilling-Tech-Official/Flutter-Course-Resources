@@ -1,3 +1,4 @@
 # Flutter-Course-Resources
 ## Section 1: Display your 
-https://docs.flutter.dev/get-started/install
+Install | Flutter https://docs.flutter.dev/get-started/install
+
