@@ -21,6 +21,6 @@
 * [Card Class Documentation](https://api.flutter.dev/flutter/material/Card-class.html)
 * [ListTile Class](https://api.flutter.dev/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://api.flutter.dev/flutter/material/Divider-class.html)
-* [LogIn Screen UI Completed Project]()
+* [LogIn Screen UI Completed Project](https://github.com/Thrilling-Tech-Official/LogInDesign)
   
 
