@@ -12,7 +12,7 @@
 * [Generating App Icons with AppIcon.co](https://www.appicon.co/)
 * [Display Your Image Completed Project](https://github.com/Thrilling-Tech-Official/Display-Your-Image)
 * ## Section 3:LogIn Screen UI  - How to Build Beautiful UIs with Flutter Widgets
-* [Container Widget](https://api.flutter.dev/flutter/widgets/Container-class.html)
+*  [Container Widget](https://api.flutter.dev/flutter/widgets/Container-class.html)
 * [Row Widget](https://api.flutter.dev/flutter/widgets/Row-class.html)
 * [Column Widget](https://api.flutter.dev/flutter/widgets/Column-class.html)
 * [Download fancy fonts from fonts.google.com ](https://fonts.google.com/)
@@ -22,5 +22,15 @@
 * [ListTile Class](https://api.flutter.dev/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://api.flutter.dev/flutter/material/Divider-class.html)
 * [LogIn Screen UI Completed Project](https://github.com/Thrilling-Tech-Official/LogInDesign)
+  ## Section 4:Rolling Dice App - Building Apps with State
+* [Rolling Dice Stub Project](https://github.com/Thrilling-Tech-Official/RollingDiceApp)
+* [Expanded Class](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
+* [GestureDetector](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
+* [Run code snippets on DartPad ](https://dartpad.dev/?)
+* [Dart Math Library](https://api.dart.dev/stable/3.2.6/dart-math/dart-math-library.html)
+* [Random Class](https://api.dart.dev/stable/3.2.6/dart-math/Random-class.html)
+* [Rolling Dice Completed Project](https://github.com/Thrilling-Tech-Official/Rolling-Dice-App-Completed)
+
   
+
 
