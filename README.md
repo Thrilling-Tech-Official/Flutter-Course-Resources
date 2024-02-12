@@ -31,7 +31,7 @@
 * [Random Class](https://api.dart.dev/stable/3.2.6/dart-math/Random-class.html)
 * [Rolling Dice Completed Project](https://github.com/Thrilling-Tech-Official/Rolling-Dice-App-Completed)
  ## Section 5:Piano App- Using Flutter and Dart Packages to Speed Up Development
-* [Piano Stub Project](https://github.com/Thrilling-Tech-Official/RollingDiceApp)
+* [Piano Stub Project](https://github.com/Thrilling-Tech-Official/Piano-App)
 * [Flutter Packages](https://pub.dev/)
 * [Guide to Using Flutter Packages](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
 * [Luan Nico's Audioplayers Package](https://pub.dev/packages/audioplayers)
